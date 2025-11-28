@@ -1,2 +1,1 @@
-# .github
-Readme
+Conduit is about channeling your ideas into creative expression. We believe that bespoke and tailored design is now more important than ever. Our philosophy combines scientific design principles with your unique vision, powered by Agentic AI to create truly original work
